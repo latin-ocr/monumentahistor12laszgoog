@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentahistor12laszgoog_0394.png"; bbox 0 0 3472 5242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 230 2433 1493 2585">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 230 2433 1493 2585">
+     <span class='ocr_line' id='line_1_1' title="bbox 336 2433 1493 2498; baseline -0.001 -15"><span class='ocrx_word' id='word_1_1' title='bbox 336 2433 370 2483; x_wconf 86' lang='lat' dir='ltr'><em>N.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 391 2433 423 2482; x_wconf 91' lang='lat' dir='ltr'><em>B.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 444 2433 476 2480; x_wconf 85' lang='lat' dir='ltr'><em>In</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 497 2434 643 2481; x_wconf 81' lang='lat' dir='ltr'><em>kalendario</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 661 2434 705 2481; x_wconf 80' lang='lat' dir='ltr'><em>hoc</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 722 2434 824 2480; x_wconf 84' lang='lat' dir='ltr'><em>nomina</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 848 2434 927 2480; x_wconf 73' lang='lat' dir='ltr'><em>meris</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 951 2435 1061 2481; x_wconf 74' lang='lat' dir='ltr'><em>cursivis</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1078 2435 1196 2498; x_wconf 81' lang='lat' dir='ltr'><em>impressa</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1224 2436 1251 2481; x_wconf 86' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1265 2434 1395 2497; x_wconf 74' lang='lat' dir='ltr'><em>originali</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1417 2435 1493 2482; x_wconf 80' lang='lat' dir='ltr'><em>rubro</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 230 2520 562 2585; baseline -0.003 -17"><span class='ocrx_word' id='word_1_13' title='bbox 230 2520 368 2570; x_wconf 73' lang='lat' dir='ltr'><em>charactere</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 384 2521 476 2585; x_wconf 77' lang='lat' dir='ltr'><em>sm&#39;pta</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 495 2527 562 2573; x_wconf 78' lang='lat' dir='ltr'><em>sunt.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1740 5242">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1740 5242">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1740 5242; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1740 5242; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
